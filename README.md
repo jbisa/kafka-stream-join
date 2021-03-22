@@ -1,0 +1,5 @@
+# Dependencies
+
+- Docker
+- Java
+- Gradle
